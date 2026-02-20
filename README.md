@@ -139,7 +139,7 @@ Este sistema foi projetado em conformidade com:
 
 ## 👨‍💻 Equipe
 
-> Desenvolvido por alunos do **SENAI SC Joinville** como projeto acadêmico.
+> Desenvolvido por alunos do **SENAI Roberto Mange** como projeto acadêmico.
 
 ---
 
@@ -156,8 +156,6 @@ Este sistema foi projetado em conformidade com:
 ---
 
 <div align="center">
-
-*Desenvolvido com 💛 no SENAI SC Joinville*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00,FFB347&height=80&section=footer" />
 
