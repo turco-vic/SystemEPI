@@ -71,7 +71,7 @@ O **Sistema de Gestão de EPIs** é uma solução desenvolvida para modernizar e
 
 - [x] Planejamento do sistema
 - [x] Levantamento de requisitos
-- [ ] Modelagem do banco de dados
+- [x] Modelagem do banco de dados
 - [ ] Desenvolvimento do back-end
 - [ ] Desenvolvimento do front-end
 - [ ] Sistema de autenticação e perfis
