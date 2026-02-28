@@ -1,6 +1,6 @@
 <template>
     <header>
-        <h1>Dashboard</h1>
+        <h1>Cadastro</h1>
     </header>
     <main>
         <h1>Bem-vindo ao SystemACE</h1>
@@ -12,6 +12,6 @@
 
 <script>
 export default {
-    name: "Dashboard",
+    name: "Cadastro",
 }
 </script>
